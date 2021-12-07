@@ -1,0 +1,76 @@
+.i {
+  display: flex;
+  height: 100vh;
+  /* background-color: #40722d; */
+  /* background-color: #bee153; */
+}
+.i-left {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.i-left-wrapper {
+  height: 70%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.i-right {
+  flex: 1;
+  position: relative;
+}
+.i-intro {
+  font-size: 2rem;
+  font-weight: 300;
+}
+.i-name {
+  font-size: 3rem;
+}
+.i-title {
+  height: 3rem;
+  overflow: hidden;
+}
+/* i-title若200px高 ,可以看到整個box在移動 */
+.i-title-wrapper {
+  height: 100%;
+  animation: move 10s ease-in-out infinite alternate;
+}
+@keyframes move {
+  25% {
+    transform: translateY(-3rem);
+  }
+  50% {
+    transform: translateY(-6rem);
+  }
+  75% {
+    transform: translateY(-9rem);
+  }
+  100% {
+    transform: translateY(-12rem);
+  }
+}
+.i-title-item {
+  height: 3rem;
+  font-size: 2rem;
+  font-weight: bold;
+  color: #ccc;
+  display: flex;
+  align-items: center;
+}
+
+.i-bg {
+  width: 110%;
+  height: 100%;
+  clip-path: polygon(30% 0, 100% 0, 100% 100%, 30% 100%, 0 47%);
+  position: absolute;
+  right: 0px;
+  /* z-index: -1; */
+}
+
+.i-img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  position: absolute;
+}
