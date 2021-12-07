@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/dejavu92427.github.io/rick-and-morty/static/css/main.9fb242b4.chunk.css",
-    "main.js": "/dejavu92427.github.io/rick-and-morty/static/js/main.0ccba9b2.chunk.js",
-    "main.js.map": "/dejavu92427.github.io/rick-and-morty/static/js/main.0ccba9b2.chunk.js.map",
-    "runtime-main.js": "/dejavu92427.github.io/rick-and-morty/static/js/runtime-main.88234c1e.js",
-    "runtime-main.js.map": "/dejavu92427.github.io/rick-and-morty/static/js/runtime-main.88234c1e.js.map",
-    "static/js/2.980da3c6.chunk.js": "/dejavu92427.github.io/rick-and-morty/static/js/2.980da3c6.chunk.js",
-    "static/js/2.980da3c6.chunk.js.map": "/dejavu92427.github.io/rick-and-morty/static/js/2.980da3c6.chunk.js.map",
-    "index.html": "/dejavu92427.github.io/rick-and-morty/index.html",
-    "static/css/main.9fb242b4.chunk.css.map": "/dejavu92427.github.io/rick-and-morty/static/css/main.9fb242b4.chunk.css.map",
-    "static/js/2.980da3c6.chunk.js.LICENSE.txt": "/dejavu92427.github.io/rick-and-morty/static/js/2.980da3c6.chunk.js.LICENSE.txt"
+    "main.css": "/rick-and-morty/static/css/main.9fb242b4.chunk.css",
+    "main.js": "/rick-and-morty/static/js/main.0ccba9b2.chunk.js",
+    "main.js.map": "/rick-and-morty/static/js/main.0ccba9b2.chunk.js.map",
+    "runtime-main.js": "/rick-and-morty/static/js/runtime-main.36c98f65.js",
+    "runtime-main.js.map": "/rick-and-morty/static/js/runtime-main.36c98f65.js.map",
+    "static/js/2.980da3c6.chunk.js": "/rick-and-morty/static/js/2.980da3c6.chunk.js",
+    "static/js/2.980da3c6.chunk.js.map": "/rick-and-morty/static/js/2.980da3c6.chunk.js.map",
+    "index.html": "/rick-and-morty/index.html",
+    "static/css/main.9fb242b4.chunk.css.map": "/rick-and-morty/static/css/main.9fb242b4.chunk.css.map",
+    "static/js/2.980da3c6.chunk.js.LICENSE.txt": "/rick-and-morty/static/js/2.980da3c6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.88234c1e.js",
+    "static/js/runtime-main.36c98f65.js",
     "static/js/2.980da3c6.chunk.js",
     "static/css/main.9fb242b4.chunk.css",
     "static/js/main.0ccba9b2.chunk.js"
